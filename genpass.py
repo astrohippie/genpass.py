@@ -48,6 +48,6 @@ def select_option():
 
 
 if __name__ == '__main__':
-   print(f"{WELCOME_COLOR}Welcome to the Python Password Generator!{RESET_COLOR}")
+   print(f"{WELCOME_COLOR}Welcome to genpass, the Python Password Generator!{RESET_COLOR}")
    time.sleep(7)  # Sleep for 7 seconds
    select_option()
