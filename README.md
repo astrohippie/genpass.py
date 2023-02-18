@@ -8,7 +8,8 @@ This script requires Python 3 to be installed on your system.
 Usage
 To use the script, simply run it from the command line using the following command:
 
-python3 password_generator.py
+./genpass.py
+python3 genpass.py
 
 The script will display a welcome message and then prompt the user to select an option by entering a number.
 
