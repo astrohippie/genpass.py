@@ -39,7 +39,7 @@ def select_option():
         if option == '1':
             print(f"{WELCOME_COLOR}New password generated: {RESET_COLOR}{create_pw()}")
         elif option == '2':
-            print(f"{WELCOME_COLOR}Python password generator\nVersion 1.0\nCoded by: chipis{RESET_COLOR}")
+            print(f"{WELCOME_COLOR}Python password generator\nVersion 1.0\nCoded by: AstroHippie{RESET_COLOR}")
         elif option == '3':
             print(f"{WELCOME_COLOR}Exiting...{RESET_COLOR}")
             break
