@@ -1,4 +1,14 @@
 #!/usr/bin/python3
+#=================================================================================================================================
+#
+#genpass v1.0: "Python Password Generator" - (https://github.com/astrohippie/genpass.py) - 2023 -> by AstroHippie
+#
+#----------- 
+#
+#genpass - is a Python password generator that generates strong passwords containing letters, numbers, and special characters.
+#The tool uses a combination of Python's built-in modules to generate random and secure passwords that are 12 characters long.
+# 
+#=================================================================================================================================
 
 import time
 import secrets
