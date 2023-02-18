@@ -5,7 +5,8 @@ Prerequisites
 
 This script requires Python 3 to be installed on your system.
 
-Usage
+Usage:
+
 To use the script, simply run it from the command line using the following command:
 
 ./genpass.py
@@ -25,7 +26,8 @@ To check the version of the script, enter "2" at the prompt. The script will dis
 
 To exit the program, enter "3" at the prompt.
 
-Customization
+Customization:
+
 You can change the length of the generated password by modifying the pw_length parameter in the create_pw function.
 
 python
@@ -40,5 +42,6 @@ letters = string.ascii_letters
 digits = string.digits
 special_chars = string.punctuation
 
-License
+License:
+
 This script is released under the MIT License.
