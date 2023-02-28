@@ -1,6 +1,7 @@
 Python Password Generator (genpass)
 
 This is a Python script that generates strong passwords of length 12 by default. The password contains at least two digits and at least one special character. The user can also check the version of the script and exit the program.
+
 Prerequisites
 
 This script requires Python 3 to be installed on your system.
