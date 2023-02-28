@@ -11,6 +11,7 @@ Usage:
 To use the script, simply run it from the command line using the following command:
 
 ./genpass.py
+or
 python3 genpass.py
 
 The script will display a welcome message and then prompt the user to select an option by entering a number.
